@@ -1,0 +1,1 @@
+<view class="container"><view class="tx-w"><view class="tx"><image class="tx-img" src="{{yonghuwx.avatarUrl}}"></image><view class="name">{{yonghuwx.nickName+''}}</view><view class="zx"></view></view><view class="name-qm"><view class="name-hei">ENJOY黑卡</view><view class="name-new">黑卡权益上新啦</view><view class="name-ka">开通会员</view></view></view></view>

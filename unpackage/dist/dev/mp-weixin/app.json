@@ -1,0 +1,58 @@
+{
+  "pages": [
+    "pages/tabBar/home/home",
+    "pages/tabBar/news/news",
+    "pages/tabBar/buy/buy",
+    "pages/tabBar/attention/attention",
+    "pages/tabBar/admin/admin",
+    "pages/index/fundPwd",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#1ccdbf",
+    "borderStyle": "black",
+    "backgroundColor": "#fefefe",
+    "list": [
+      {
+        "pagePath": "pages/tabBar/home/home",
+        "iconPath": "static/2_61.png",
+        "selectedIconPath": "static/1_61.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tabBar/news/news",
+        "iconPath": "static/2_52.png",
+        "selectedIconPath": "static/1_52.png",
+        "text": "晒台"
+      },
+      {
+        "pagePath": "pages/tabBar/buy/buy",
+        "iconPath": "static/2_53.png",
+        "selectedIconPath": "static/1_53.png",
+        "text": "Young购"
+      },
+      {
+        "pagePath": "pages/tabBar/attention/attention",
+        "iconPath": "static/2_54.png",
+        "selectedIconPath": "static/1_54.png",
+        "text": "快关"
+      },
+      {
+        "pagePath": "pages/tabBar/admin/admin",
+        "iconPath": "static/2_55.png",
+        "selectedIconPath": "static/1_55.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap91.json"
+}
