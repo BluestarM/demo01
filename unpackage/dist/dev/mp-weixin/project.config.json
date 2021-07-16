@@ -43,6 +43,8 @@
   "libVersion": "",
   "appid": "wx9982814576accf8c",
   "projectname": "demoOne",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
   "condition": {
     "search": {
       "list": []
